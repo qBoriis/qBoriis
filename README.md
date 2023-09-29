@@ -1,3 +1,3 @@
 # HI, I'm Boris
 
-Computer Science Student
+"We don't make mistakes, we have happy accidents."
